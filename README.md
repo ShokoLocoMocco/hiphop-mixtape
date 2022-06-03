@@ -20,7 +20,7 @@ originally a HTML/CSS exercise for [Responsive Web Design Certification](https:/
 
 
 ### Visualizations
-⚡️I N S P I R A T I O N S💡 that I can't go without.<br> 
+⚡️I N S P I R A T I O N S💡 that I can't go without <br> 
 🎧 [The Largest Vocabulary In Hip Hop](https://pudding.cool/projects/vocabulary/)<br>
 one of the honorable works done by my visualization idol [Matt Daniels](https://twitter.com/matthew_daniels)<br>
 
@@ -28,7 +28,7 @@ one of the honorable works done by my visualization idol [Matt Daniels](https://
 <br>
 
 ### Articles
-Articles significant to the scene
+Articles significant to the scene<br>
 🎧 [DMX, Shock G, and the Plight of the Middle-Aged Rapper](https://www.newyorker.com/culture/listening-booth/dmx-shock-g-and-the-plight-of-the-middle-aged-rapper)<br>
 victim to the rap ageism in the end 🤔😢<br>
 
