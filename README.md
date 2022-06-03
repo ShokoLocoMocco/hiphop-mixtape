@@ -1,4 +1,4 @@
-# hiphop mixtape
+# Hip Hop Mixtape by Lil' Sho'
 This is where my passion is @🔥🔥🔥🔥🔥💯💯💯
 
 ## Tribute
