@@ -1,7 +1,7 @@
 # Hip Hop Mixtape by Lil' Sho'
 This is where my passion is @🔥🔥🔥🔥🔥💯💯💯
 
-<p align="center"><img src="https://github.com/ShokoLocoMocco/sho-viz/blob/main/assets/img/rec_original.png" width="50%"></p>
+<p align="center"><img src="/img/rec_sho-boo_hr.png" width="50%"></p>
 
 ## Tribute
 My tribute pieces to hip hop culture and community<br>
